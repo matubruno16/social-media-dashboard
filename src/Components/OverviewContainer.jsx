@@ -1,5 +1,5 @@
 import { OverviewCard, OverviewTodayCard } from './OverviewCard'
-import data from '../../data/data.json'
+import data from '../Data/data.json'
 
 const converNumbertoK = (number) => {
   if( number >= 10000){
